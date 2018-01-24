@@ -271,12 +271,7 @@ textarea{
 	grid-template-columns: auto auto;
 	grid-gap: 50px 100px;
 }
-
-
-
-
 /*MEDIA*/
-
 @media screen and (max-width: 768px){
 	.topnav a:not(:first-child){
 		display: none;
@@ -314,9 +309,7 @@ textarea{
 	.blog-container{
 	width: 28rem;
 	}
-	
 }
-
 @media screen and (max-width: 420px) {
 	.advantages{
 		flex-direction: column;
